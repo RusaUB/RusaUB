@@ -25,7 +25,7 @@
 <details>
 <p align="center">
   <a href="https://github.com/FujiwaraChoki">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FujiwaraChoki&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RusaUB&theme=aura_dark" />
   </a>
   <a href="https://github.com/FujiwaraChoki">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FujiwaraChoki&hide_border=true&card_width=338&theme=transparent" />
