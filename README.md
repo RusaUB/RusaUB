@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="https://count.getloli.com/get/@fujiwarachoki?theme=gelbooru" />
-</p>
-
-<div align="center">
-<a href="https://twitter.com/RusaUb" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>
-
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/FujiwaraChoki)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/FujiwaraChoki)
